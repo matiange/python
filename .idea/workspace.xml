@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3be043d5-5a15-4aba-9489-4a74345606c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nd9BX0VXOv2QbK7FHAoVblgz3y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonSpace\python-simple-http-server-master\simple_http_server\ignore" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonSpace\python-simple-http-server-master\simple_http_server\entity" />
+      <recent name="D:\pythonSpace\python-simple-http-server-master\simple_http_server\util" />
+      <recent name="D:\pythonSpace\python-simple-http-server-master\simple_http_server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="getdata_response" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-simple-http-server-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simple_http_server/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_http_server/util/getdata_response.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-simple-http-server-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simple_http_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_http_server/log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-simple-http-server-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simple_http_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_http_server/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.getdata_response" />
+        <item itemvalue="Python.log" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">D:\software\java\svn\bin</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3be043d5-5a15-4aba-9489-4a74345606c7" name="Default Changelist" comment="" />
+      <created>1611708965130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611708965130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&lt;&lt;submit by : matiange&gt;&gt;&#10;简版双控特种作业爬虫专用，开发版本_v_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;&lt;submit by : matiange&gt;&gt;&#10;简版双控特种作业爬虫专用，开发版本_v_01" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="357" y="197" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1611811017927">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="357" y="197" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1280.689@0.0.1280.689" timestamp="1611811017927" />
+    <state x="96" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611731946348">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1611731946348" />
+    <state x="371" y="95" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611723431914">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="95" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1611723431914" />
+    <state x="271" y="106" width="1009" height="583" key="#xdebugger.evaluate" timestamp="1611817014858">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="271" y="106" width="1009" height="583" key="#xdebugger.evaluate/0.0.1280.689@0.0.1280.689" timestamp="1611817014858" />
+    <state x="421" y="103" key="FileChooserDialogImpl" timestamp="1611824327188">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="103" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1611824327188" />
+    <state width="1259" height="255" key="GridCell.Tab.0.bottom" timestamp="1611822181755">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1611822181755" />
+    <state width="1259" height="255" key="GridCell.Tab.0.center" timestamp="1611822181755">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1611822181755" />
+    <state width="1259" height="255" key="GridCell.Tab.0.left" timestamp="1611822181755">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1611822181755" />
+    <state width="1259" height="255" key="GridCell.Tab.0.right" timestamp="1611822181755">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1611822181755" />
+    <state width="1259" height="255" key="GridCell.Tab.1.bottom" timestamp="1611822181755">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1611822181755" />
+    <state width="1259" height="255" key="GridCell.Tab.1.center" timestamp="1611822181755">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1611822181755" />
+    <state width="1259" height="255" key="GridCell.Tab.1.left" timestamp="1611822181755">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1611822181755" />
+    <state width="1259" height="255" key="GridCell.Tab.1.right" timestamp="1611822181755">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="255" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1611822181755" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1611824178930">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1611824178930" />
+    <state x="337" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1611714629085">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="337" y="173" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1611714629085" />
+    <state x="534" y="209" width="746" height="480" key="find.popup" timestamp="1611819549925">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="534" y="209" width="746" height="480" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1611819549925" />
+    <state x="297" y="-1" width="670" height="676" key="search.everywhere.popup" timestamp="1611723027287">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="-1" width="670" height="676" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1611723027287" />
+    <state x="471" y="139" width="530" height="411" key="svn.repositoryBrowser" timestamp="1611824316266">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="471" y="139" width="530" height="411" key="svn.repositoryBrowser/0.0.1280.689@0.0.1280.689" timestamp="1611824316266" />
+    <state x="470" y="179" width="681" height="449" key="svn4idea.import.options" timestamp="1611824225123">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="470" y="179" width="681" height="449" key="svn4idea.import.options/0.0.1280.689@0.0.1280.689" timestamp="1611824225123" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simple_http_server/log.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simple_http_server/log.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simple_http_server/util/tezhong_getcheckcode.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simple_http_server/util/tezhong_getcheckcode.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
