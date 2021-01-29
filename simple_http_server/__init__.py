@@ -22,7 +22,7 @@ from typing import Any, Dict, List, Tuple, Union, Callable
 from simple_http_server.ignore.logger import get_logger
 
 name = "simple_http_server"
-version = "0.7.0"
+version = "0.0.1"
 
 _logger = get_logger("simple_http_server.__init__")
 
